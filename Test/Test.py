@@ -1,4 +1,4 @@
-string StrFileName = "Test.txt"
-string strText = f"This File Name {StrFileName}"
+strFileName = "Test.txt"
+strText = f"This File Name {strFileName=}"
 
 print(strText)
